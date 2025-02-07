@@ -13,10 +13,5 @@ Sou desenvolvedor web com foco em **front-end** e **back-end**, com experiência
 - **Banco de Dados**: SQLServer, MySQL
 - **Controle de Versão**: Git, GitHub
 
-## 📂 Meus Projetos
-- [**Projeto A**](https://github.com/marcelo-damasceno/projeto-a): Descrição do projeto A, o que ele faz e por que é interessante.
-- [**Projeto B**](https://github.com/marcelo-damasceno/projeto-b): Descrição do projeto B, como ele resolve um problema real.
-- [**Projeto C**](https://github.com/marcelo-damasceno/projeto-c): Descrição do projeto C, com detalhes sobre as tecnologias usadas.
-
 ## 📞 Vamos Conversar!
 - 📱 LinkedIn: [Marcelo Damasceno](https://www.linkedin.com/in/marcelo-damasceno)
